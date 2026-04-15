@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2kzbWYzcmJpbzg0NGt2cXlyb3RkaHhzdmk3cmVsaG4ydmRsMGY1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="max-height:300px; object-fit:cover;"/>
 
 <h1>Hi 👋, I'm Raheel Shehzad</h1>
 <h3>PHP Developer | SaaS | WordPress | Laravel</h3>
