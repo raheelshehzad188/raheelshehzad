@@ -27,4 +27,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raheelshehzad&show_icons=true&theme=tokyonight)
+![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raheelshehzad188&show_icons=true&theme=tokyonight)
